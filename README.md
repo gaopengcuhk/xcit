@@ -424,10 +424,10 @@ We actively welcome your pull requests! Please see [CONTRIBUTING.md](.github/CON
 ## Citation
 If you find this repository useful, please consider citing our work:
 ```
-@article{el2021xcit,
-  title={XCiT: Cross-Covariance Image Transformers},
-  author={El-Nouby, Alaaeldin and Touvron, Hugo and Caron, Mathilde and Bojanowski, Piotr and Douze, Matthijs and Joulin, Armand and Laptev, Ivan and Neverova, Natalia and Synnaeve, Gabriel and Verbeek, Jakob and others},
-  journal={arXiv preprint arXiv:2106.09681},
+@article{gao2021fast,
+  title={Fast convergence of detr with spatially modulated co-attention},
+  author={Gao, Peng and Zheng, Minghang and Wang, Xiaogang and Dai, Jifeng and Li, Hongsheng},
+  journal={arXiv preprint arXiv:2101.07448},
   year={2021}
 }
 ```
